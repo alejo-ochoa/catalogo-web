@@ -1,13 +1,3 @@
-# Cátalogo web - Documentación básica
-
-Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals.
-
-## Lenguajes aprendidos
-
-- HTML
-- CSS
-- MARKDOWN
-
 ## Etiquetas HTML semánticas:
 
 - `<header>`: Es la sección donde va el encabezadode un sitio web. Generalmente establece las bases necesarias para el diseño de tu sitio web.
