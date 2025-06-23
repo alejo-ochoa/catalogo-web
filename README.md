@@ -1,2 +1,10 @@
-# catalogo-web
-Mi primer sitio web para el mundo
+# Cátalogo web - Documentación básica
+
+Este proyecto es un pequeño catálogo web para el nivel Code 101 - Elementals.
+
+## Lenguajes aprendidos
+
+- HTML
+- CSS
+- MARKDOWN
+
